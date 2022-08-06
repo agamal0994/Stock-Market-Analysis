@@ -8,4 +8,4 @@
 - Dashboard that answers those qQueries.
 
 you can check the Live dashboard throw the followig link:
-https://www.novypro.com/project/architect-and-explore-a-dwh-for-stock-market-analysis
+https://www.novypro.com/project/stock-market-analysis-2
